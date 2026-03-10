@@ -1,0 +1,20 @@
+// data/cards.json
+{
+ "cards":[
+  {
+   "name":"Fire Dragon",
+   "atk":2400,
+   "def":1800
+  },
+  {
+   "name":"Thunder Mage",
+   "atk":1900,
+   "def":1500
+  },
+  {
+   "name":"Stone Golem",
+   "atk":2000,
+   "def":2200
+  }
+ ]
+}
