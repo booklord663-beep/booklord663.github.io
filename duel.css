@@ -1,0 +1,13 @@
+/* css/duel.css */
+.field{
+display:flex;
+justify-content:center;
+margin:40px;
+}
+
+.zone{
+width:120px;
+height:160px;
+border:2px dashed #00e5ff;
+margin:10px;
+}
