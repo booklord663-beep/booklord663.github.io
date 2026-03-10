@@ -1,0 +1,17 @@
+/* css/style.css */
+body{
+background:#0d0d1a;
+color:white;
+font-family:Arial;
+text-align:center;
+}
+
+nav a{
+margin:10px;
+color:#00e5ff;
+text-decoration:none;
+}
+
+.hero{
+margin-top:100px;
+}
